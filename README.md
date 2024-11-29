@@ -28,6 +28,9 @@ Folder `topic_07` was added
     Solutions for `task2`, `task3`, `task4`
 
 Add .gitignore to repo
+
 Update lrp file
+
 Add student_test.csv - need for test
+
 Add student.csv - storing student data
